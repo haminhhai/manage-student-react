@@ -1,0 +1,43 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "sid": "17021000",
+      "name": "A",
+      "dob": {
+        "year": 1999,
+        "month": 1,
+        "date": 1
+      },
+      "gender": "male",
+      "email": "abc@gmail.com",
+      "contacts": "abc-father-0123456789"
+    },
+    {
+      "id": 2,
+      "sid": "123",
+      "name": "123",
+      "dob": {
+        "year": "123",
+        "month": "123",
+        "date": "123"
+      },
+      "gender": "male",
+      "email": "123",
+      "contacts": "123"
+    },
+    {
+      "id": 3,
+      "sid": "1234",
+      "name": "123",
+      "dob": {
+        "year": "123",
+        "month": "123",
+        "date": "123"
+      },
+      "gender": "male",
+      "email": "123",
+      "contacts": "123"
+    }
+  ]
+}
